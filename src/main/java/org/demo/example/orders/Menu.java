@@ -1,7 +1,5 @@
 package org.demo.example.orders;
-
 import org.demo.example.Main;
-
 import java.util.HashMap;
 
 public class Menu {

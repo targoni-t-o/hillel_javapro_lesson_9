@@ -40,7 +40,7 @@ public class Main {
 
         System.out.println();
 
-        System.out.println("Ваше замовлення когштує " + order.getTotal());
+        System.out.println("Ваше замовлення коштує " + order.getTotal());
 
     }
 
